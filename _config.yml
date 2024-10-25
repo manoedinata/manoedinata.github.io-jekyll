@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: manoedinata
 minimal_mistakes_skin: default
 search: true
+repository: manoedinata/manoedinata.github.io
 
 # Build settings
 markdown: kramdown
