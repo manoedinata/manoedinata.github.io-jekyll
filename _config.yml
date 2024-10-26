@@ -72,18 +72,6 @@ author:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/manoedinata"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/manoedinata"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/manoedinata"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/manoedinata"
-
 defaults:
   # _posts
   - scope:
