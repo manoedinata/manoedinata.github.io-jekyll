@@ -1,6 +1,5 @@
 ---
 title: "Mengirim Notifikasi Melalui HTTP Request dengan ntfy.sh"
-excerpt_separator: "<!--more-->"
 categories:
   - Tools
   - Indonesia

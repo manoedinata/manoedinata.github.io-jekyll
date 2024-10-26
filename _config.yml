@@ -84,6 +84,7 @@ defaults:
       comments: true
       share: true
       related: true
+      excerpt_separator: "<!--more-->"
   # _pages
   - scope:
       path: "_pages"
